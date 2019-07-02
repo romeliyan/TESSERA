@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tessera</string>
+
+
+    <string name="logo_pac">logo</string>
+    <string name="register">Register</string>
+    <string name="proceed">Proceed</string>
+    <string name="user_view_info">User View Info</string>
+    <string name="login_page">Login</string>
+    <string name="password">Password</string>
+
+</resources>
